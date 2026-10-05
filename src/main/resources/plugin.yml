@@ -3,7 +3,7 @@ main: me.gallowsdove.foxymachines.FoxyMachines
 
 author: GallowsDove, DrakesCraft Labs
 description: Máquinas, herramientas, armaduras, bosses y progresión para Slimefun.
-website: https://github.com/DrakesCraft-Labs/FoxyMachines-drake
+website: https://github.com/SlimefunNewHorizons/FoxyMachines-drake
 
 depend: [Slimefun]
 softdepend: [AuraSkills]

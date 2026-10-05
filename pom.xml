@@ -8,12 +8,12 @@
     <version>1.21.11-Drake.1</version>
     <name>FoxyMachines Drake</name>
     <description>Machines, tools and progression content for Slimefun, maintained by DrakesCraft Labs.</description>
-    <url>https://github.com/DrakesCraft-Labs/FoxyMachines-drake</url>
+    <url>https://github.com/SlimefunNewHorizons/FoxyMachines-drake</url>
 
     <licenses>
         <license>
             <name>GPL-3.0 license</name>
-            <url>https://github.com/DrakesCraft-Labs/FoxyMachines-drake/blob/main/LICENSE</url>
+            <url>https://github.com/SlimefunNewHorizons/FoxyMachines-drake/blob/main/LICENSE</url>
         </license>
     </licenses>
 
@@ -29,9 +29,9 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git://github.com/DrakesCraft-Labs/FoxyMachines-drake.git</connection>
-        <developerConnection>scm:git:ssh://github.com:DrakesCraft-Labs/FoxyMachines-drake.git</developerConnection>
-        <url>https://github.com/DrakesCraft-Labs/FoxyMachines-drake/tree/main</url>
+        <connection>scm:git:git://github.com/SlimefunNewHorizons/FoxyMachines-drake.git</connection>
+        <developerConnection>scm:git:ssh://github.com:SlimefunNewHorizons/FoxyMachines-drake.git</developerConnection>
+        <url>https://github.com/SlimefunNewHorizons/FoxyMachines-drake/tree/main</url>
     </scm>
 
     <properties>
