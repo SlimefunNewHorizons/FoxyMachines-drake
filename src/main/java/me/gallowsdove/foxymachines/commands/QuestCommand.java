@@ -1,7 +1,7 @@
 package me.gallowsdove.foxymachines.commands;
 
 import dev.drake.infinitylib.commands.SubCommand;
-import com.github.drakescraft_labs.slimefun4.utils.SlimefunUtils;
+import io.github.thebusybiscuit.slimefun4.utils.SlimefunUtils;
 import me.gallowsdove.foxymachines.Items;
 import me.gallowsdove.foxymachines.utils.QuestUtils;
 import org.bukkit.ChatColor;

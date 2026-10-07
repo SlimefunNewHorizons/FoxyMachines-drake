@@ -1,12 +1,12 @@
 package me.gallowsdove.foxymachines.types;
 
-import com.github.drakescraft_labs.slimefun4.api.recipes.RecipeType;
-import com.github.drakescraft_labs.slimefun4.libraries.dough.items.CustomItemStack;
+import io.github.thebusybiscuit.slimefun4.api.recipes.RecipeType;
+import io.github.thebusybiscuit.slimefun4.libraries.dough.items.CustomItemStack;
 import me.gallowsdove.foxymachines.FoxyMachines;
 import org.bukkit.Material;
 import org.bukkit.NamespacedKey;
 import org.bukkit.inventory.ItemFlag;
-import com.github.drakescraft_labs.slimefun4.utils.compatibility.VersionedItemFlag;
+import io.github.thebusybiscuit.slimefun4.utils.compatibility.VersionedItemFlag;
 import org.bukkit.inventory.meta.ItemMeta;
 
 public class FoxyRecipeType {

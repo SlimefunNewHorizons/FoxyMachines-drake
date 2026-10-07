@@ -1,7 +1,7 @@
 package me.gallowsdove.foxymachines.listeners;
 
 import me.gallowsdove.foxymachines.FoxyMachines;
-import com.github.drakescraft_labs.slimefun4.legacy.api.BlockStorage;
+import me.mrCookieSlime.Slimefun.api.BlockStorage;
 import org.bukkit.Location;
 import org.bukkit.World;
 import org.bukkit.event.EventHandler;
