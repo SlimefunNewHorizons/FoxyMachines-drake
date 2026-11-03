@@ -35,7 +35,7 @@ public class FoxyMachines extends AbstractAddon {
     private ChunkLoaderQuotaService chunkLoaderQuotaService;
 
     public FoxyMachines() {
-        super("DrakesCraft-Labs", "FoxyMachines-drake", "main", "auto-update");
+        super("SlimefunNewHorizons", "FoxyMachines-drake", "main", "auto-update");
     }
 
     @Override
