@@ -225,7 +225,8 @@ public class ImprovementForge extends SlimefunItem implements EnergyNetComponent
             ItemStack improvementCore = menu.getItemInSlot(slot == getInputSlots()[0] ? getInputSlots()[1] : getInputSlots()[0]);
             ItemStack item = menu.getItemInSlot(slot);
 
-            if (item != null) {
+            // El core puede ir en cualquiera de los dos slots de entrada
+            if (item != null && improvementCore != null) {
                 if (SlimefunUtils.isItemSimilar(improvementCore, Items.IMPROVEMENT_CORE, true, false)) {
 
                     int tier = -1;
@@ -260,8 +261,6 @@ public class ImprovementForge extends SlimefunItem implements EnergyNetComponent
 
                     return new MachineRecipe(45, new ItemStack[] { improvementCore, item }, new ItemStack[] { improvedItem });
                 }
-
-                break;
             }
         }
 
